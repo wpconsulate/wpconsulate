@@ -5,4 +5,4 @@
 #
 [![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=wpconsulate&theme=tokyonight&show_icons=true)](https://github.com/wpconsulate/github-readme-stats)
 #
-[![trophy](https://github-profile-trophy.vercel.app/?username=wpconsulate&theme=tokyonight)]
+[trophy](https://github-profile-trophy.vercel.app/?username=wpconsulate&theme=tokyonight)
